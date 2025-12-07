@@ -2,7 +2,7 @@
 
 ---
 
-## **3. Task3 – Simple Calculator**
+##  Task3 – Simple Calculator**
 
 markdown
 # Codsoft Task3: Simple Calculator
